@@ -36,6 +36,7 @@ composer require firebed/aade-mydata
 - [Εγγραφή στο παραγωγικό περιβάλλον](https://www.aade.gr/mydata)
 - [Επίσημη τεκμηρίωση ΑΑΔΕ myDATA (PDF v1.0.9)](https://www.aade.gr/sites/default/files/2024-07/myDATA%20API%20Documentation%20v1.0.9_official_erp.pdf)
 
+
 ## Αρχικοποίηση
 
 Αφού έχετε το αναγνωριστικό χρήστη και το κλειδί συνδρομής, χρησιμοποιήστε τον ακόλουθο κώδικα για να ορίσετε το
